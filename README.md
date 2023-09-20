@@ -1,4 +1,3 @@
-![github-user-contribution](https://github.com/koshi-sharkbait/koshi-sharkbait/assets/120157706/7bbf789a-0471-41d3-b7e3-d1da48ae6460)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><desc>
 
 <p align="left">
 </p>
